@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR5c0290/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5c0290/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上衛靈神化九轉丹砂法
+  date: '2015-08-29 00:55:37.632540'
+  source:
+    repository: kanripo
+    path: KR5c0290
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0290_000-ZTDZ.yaml, hash: 'sha256:0a2335f964ab5470d187cc624f7670937ae56a9cd41afed49724eb60ac80325b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5c0290_000-ZTDZ.markers.yaml, hash: 'sha256:b2600022e7be7678129268b53a101f3c2f1291ab12114a50b4ed799250af2f04'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5c0290_SJB_000-190027c
+    span:
+    - body
+    - 0
+    - 2057
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:82e4f057743acef29fc37a5202577f81170c2ef8110043c0108b29cd1644bfce
